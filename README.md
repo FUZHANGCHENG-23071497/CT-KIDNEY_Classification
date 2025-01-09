@@ -2,6 +2,8 @@
 
 Our project involves the classification of kidney images from CT scans into different categories such as healthy, cystic, tumors, or other pathologies using deep learning techniques. The dataset used consists of CT scan images that are labeled for training and evaluation.
 
+Google Drive Link (Model file): https://drive.google.com/drive/folders/1c1I-8zztjQwPw8SCWTAAcnnSRbE_Vfe8?usp=sharing
+
 ## Introduction
 The purpose of this project is to develop a deep learning model that can automatically classify CT kidney scans into predefined categories. This would be useful for assisting radiologists and healthcare professionals in diagnosing kidney-related diseases more efficiently.
 
